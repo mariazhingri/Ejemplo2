@@ -1,6 +1,8 @@
 # Bienvenido a mi página de GitHub
 
 
+![mariazhingri](/ruta/a/la/imagen.jpg)
+
 
 Hola, mi nombre es María Zhingri y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
